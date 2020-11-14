@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/nkomiljon/pkg/banners"
+	"github.com/nkomiljon/http/pkg/banners"
 )
 
 //Server .. это наш логический сервер
